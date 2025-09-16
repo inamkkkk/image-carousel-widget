@@ -1,0 +1,40 @@
+### Flutter ###
+.flutter-plugins
+.flutter-plugin-dependencies
+.metadata
+
+### Dart/Flutter ###
+.dart_tool/
+.packages
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Build output directories
+build/
+.pub-cache
+
+# OS generated files #
+######################
+.DS_Store
+trash/
+
+# Logs and databases
+*.log
+*.db
+*.sqlite
+
+# IntelliJ project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VSCode files
+.vscode/
+
+# Optional - remove if not using
+android/
+ios/
+web/
